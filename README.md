@@ -1,6 +1,6 @@
 # Bryan Ivan Rueda Marin
 
-#Ing. Joel Ivan Chuc Uc
+# Ing. Joel Ivan Chuc Uc
 
 ## 5°A DSM
 
