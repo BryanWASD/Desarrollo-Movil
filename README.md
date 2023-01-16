@@ -1,4 +1,4 @@
-# Bryan Ivan Rueda Marin
+# Bryan Ivan Rueda Marin - My Awesome Namer App
 
 # Ing. Joel Ivan Chuc Uc
 
